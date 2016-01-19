@@ -178,7 +178,7 @@ Dans ce cadre j'ai donc mis en place :
 
 
 Pour résumer, voici tout ce que je retiens de mon expérience Meetic (par ordre d'importance)
-> * Aventure Humaine exeptionelle
+> * Aventure Humaine exceptionelle
 > * Php 
 >   * Phing
 >   * PhpUnit
